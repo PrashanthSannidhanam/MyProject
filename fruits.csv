@@ -1,0 +1,14 @@
+fruits,unit_price,qnty,month
+oranges,25,4,jan
+apple,40,5,jan
+oranges,60,6,jan
+mango,35,10,jan
+oranges,25,4,feb
+apple,40,5,feb
+apple,60,6,feb
+mango,35,10,feb
+oranges,25,5,Mar
+apple,40,5,Mar
+mango,60,6,Mar
+mango,35,10,Mar
+,,,
